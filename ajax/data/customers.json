@@ -1,0 +1,18 @@
+[{
+  "id": 1,
+  "name": "Nemanja Nikolic",
+  "company": "Endava",
+  "phone": "063 88 18 540"
+},
+{
+  "id": 2,
+  "name": "Pera Peric",
+  "company": "LEVI9",
+  "phone": "063 34 56 430"
+},
+{
+  "id": 3,
+  "name": "Mika Mikic",
+  "company": "123 Design",
+  "phone": "063 44 28 541"
+}]
